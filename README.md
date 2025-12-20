@@ -27,7 +27,7 @@ Focused on **real-world attack simulation**, **responsible disclosure**, and **c
 | CVE-2025-67985 | TBD | [Link – To be added] | [Exploit-DB – To be added] |
 | CVE-2025-67986 | TBD | [Link – To be added] | [Exploit-DB – To be added] |
 --->
-> Detailed technical write-ups and PoCs will be published once disclosure timelines permit.
+> Detailed technical Write-ups/ PoCs are published.
 
 ---
 
@@ -43,8 +43,8 @@ Focused on **real-world attack simulation**, **responsible disclosure**, and **c
 
 ## 🏆 Recognitions & Responsible Disclosures
 - **NASA** – Hall of Fame & Letter of Recognition for multiple **P1 vulnerability disclosures**
-- **Microsoft** – Credited for discovery of **medium-severity XOR SQL Injection**
-- **DeepSeek AI** – Acknowledged for responsible disclosure of a **critical 0-click full Account Takeover**
+- **Microsoft** – Credited for discovery of **Medium-Severity XOR SQL Injection**
+- **DeepSeek AI** – Acknowledged for responsible disclosure of a **Critical 0-click Full Account Takeover (ATO)**
 - **20+ Global Enterprises & Startups** – Assisted in identifying and mitigating **critical web & infrastructure vulnerabilities**
 
 ---
@@ -66,7 +66,7 @@ Focused on **real-world attack simulation**, **responsible disclosure**, and **c
 ---
 
 ## 🧰 Tools & Environment
-- **Linux:** Kali Linux, Parrot OS  
+- **Linux:** Kali Linux, Parrot OS, Ubuntu  
 - **Tooling:** Burp Suite, Nmap, Nessus, BloodHound, Metasploit, Wireshark, SQLmap, ffuf, Gobuster, WPScan  
 - **Windows:** PowerShell, WSL, Active Directory, Registry & Host Forensics  
 - **Virtualization:** VMware, VirtualBox
