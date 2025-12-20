@@ -3,21 +3,20 @@
 Offensive security professional specializing in **penetration testing, red teaming, and vulnerability research**.  
 Focused on **real-world attack simulation**, **responsible disclosure**, and **clear technical reporting** that drives effective remediation.
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/zeeshan-haider-2522bb1ba/ 
 
 ---
 
 ## 🧠 Highlights
 - 🐞 **3× CVEs Discovered**
-- 🎯 Experience across **web, cloud, network, and infrastructure security**
-- 📄 Strong emphasis on **high-quality VAPT reporting & stakeholder communication**
+- 🎯 Experience across **Web, Cloud, Network & Infrastructure Security**
+- 📄 Strong emphasis on **High-Quality VAPT Reporting & Stakeholder Communication**
 
 ---
 
 ## 🐞 CVEs & Public Research
 | CVE ID | Description | CVE Link | Exploit-DB |
 |------|------------|---------|-----------|
-| CVE-2025-67586 | TBD | [Link – To be added] | [Exploit-DB – To be added] |
+| CVE-2025-67586 | TBD | [(https://www.cve.org/CVERecord?id=CVE-2025-67586)] | [Exploit-DB – To be added] |
 | CVE-2025-67985 | TBD | [Link – To be added] | [Exploit-DB – To be added] |
 | CVE-2025-67986 | TBD | [Link – To be added] | [Exploit-DB – To be added] |
 
