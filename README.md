@@ -7,8 +7,8 @@ Focused on **real-world attack simulation**, **responsible disclosure**, and **c
 ---
 
 ##  Highlights
--  **3× CVEs Discovered**
--  Experience across **Web, Cloud, Network & Infrastructure Security**
+-  **5× CVEs Discovered**
+-  Experience across **Web Application, Network, Cloud technologies (Amazon, Azure) & IoT/​ OT environment Penetration Testing & Infrastructure Security**
 -  Strong emphasis on **High-Quality VAPT Reporting & Stakeholder Communication**
 
 ---
@@ -19,6 +19,8 @@ Focused on **real-world attack simulation**, **responsible disclosure**, and **c
 | CVE-2025-67586 | WordPress Highlight and Share plugin <= 5.2.0 - Broken Access Control vulnerability | [https://www.cve.org/CVERecord?id=CVE-2025-67586] |
 | CVE-2025-67985 | WordPress Document Library Lite plugin <= 1.1.7 - Insecure Direct Object References (IDOR) vulnerability | [https://www.cve.org/CVERecord?id=CVE-2025-67985] |
 | CVE-2025-67986 | WordPress Document Library Lite plugin <= 1.1.7 - Cross Site Scripting (XSS) vulnerability | [https://www.cve.org/CVERecord?id=CVE-2025-67986] |
+| CVE-2025-62140 | WordPress Locatoraid Store Locator plugin <= 3.9.65 - Cross Site Scripting (XSS) vulnerability | [https://www.cve.org/CVERecord?id=CVE-2025-62140] |
+| CVE-2025-70625 | Chat Z AI (https://chat.z.ai/) GLM-4.6 - Stored Cross Site Scripting (XSS) vulnerability | [https://www.cve.org/CVERecord?id=CVE-2025-70625] |
 <!---
 ## 🐞 CVEs & Public Research
 | CVE ID | Description | CVE Link | Exploit-DB |
