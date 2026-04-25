@@ -21,6 +21,13 @@ Focused on **real-world attack simulation**, **responsible disclosure**, and **c
 | CVE-2025-67986 | WordPress Document Library Lite plugin <= 1.1.7 - Cross Site Scripting (XSS) vulnerability | [https://www.cve.org/CVERecord?id=CVE-2025-67986] |
 | CVE-2025-62140 | WordPress Locatoraid Store Locator plugin <= 3.9.65 - Cross Site Scripting (XSS) vulnerability | [https://www.cve.org/CVERecord?id=CVE-2025-62140] |
 | CVE-2025-70625 | Chat Z AI (https://chat.z.ai/) GLM-4.6 - Stored Cross Site Scripting (XSS) vulnerability | [https://www.cve.org/CVERecord?id=CVE-2025-70625] |
+
+| Exploit-DB | Description | CVE Link |
+|------|------------|---------|
+| https://www.exploit-db.com/exploits/52511
+ | WordPress Highlight and Share plugin <= 5.2.0 - Broken Access Control vulnerability | [https://www.cve.org/CVERecord?id=CVE-2025-67586] |
+
+
 <!---
 ## 🐞 CVEs & Public Research
 | CVE ID | Description | CVE Link | Exploit-DB |
