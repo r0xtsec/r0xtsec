@@ -14,6 +14,11 @@ Focused on **real-world attack simulation**, **responsible disclosure**, and **c
 ---
 
 ## CVEs & Exploit-DB Research
+
+| Exploit-DB | Description | CVE Link |
+|------|------------|---------|
+| https://www.exploit-db.com/exploits/52511| WordPress Highlight and Share plugin <= 5.2.0 - Broken Access Control vulnerability | [https://www.cve.org/CVERecord?id=CVE-2025-67586] |
+
 | CVE ID | Description | CVE Link |
 |------|------------|---------|
 | CVE-2025-67586 | WordPress Highlight and Share plugin <= 5.2.0 - Broken Access Control vulnerability | [https://www.cve.org/CVERecord?id=CVE-2025-67586] |
@@ -23,9 +28,6 @@ Focused on **real-world attack simulation**, **responsible disclosure**, and **c
 | CVE-2025-70625 | Chat Z AI (https://chat.z.ai/) GLM-4.6 - Stored Cross Site Scripting (XSS) vulnerability | [https://www.cve.org/CVERecord?id=CVE-2025-70625] |
 
 
-| Exploit-DB | Description | CVE Link |
-|------|------------|---------|
-| https://www.exploit-db.com/exploits/52511| WordPress Highlight and Share plugin <= 5.2.0 - Broken Access Control vulnerability | [https://www.cve.org/CVERecord?id=CVE-2025-67586] |
 
 
 <!---
