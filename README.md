@@ -21,6 +21,18 @@ Focused on **real-world attack simulation**, **responsible disclosure**, and **c
 
 | CVE ID | Description | CVE Link |
 |------|------------|---------|
+| CVE-2025-67586 | WordPress Highlight and Share plugin <= 5.2.0 - Broken Access Control vulnerability | [https://www.wordfence.com/threat-intel/vulnerabilities/researchers/zeeshan-haider] |
+| CVE-2025-67985 | WordPress Document Library Lite plugin <= 1.1.7 - Insecure Direct Object References (IDOR) vulnerability | [https://www.wordfence.com/threat-intel/vulnerabilities/researchers/zeeshan-haider] |
+| CVE-2025-67986 | WordPress Document Library Lite plugin <= 1.1.7 - Cross Site Scripting (XSS) vulnerability | [https://www.wordfence.com/threat-intel/vulnerabilities/researchers/zeeshan-haider] |
+| CVE-2025-62140 | WordPress Locatoraid Store Locator plugin <= 3.9.65 - Cross Site Scripting (XSS) vulnerability | [https://www.wordfence.com/threat-intel/vulnerabilities/researchers/zeeshan-haider] |
+| CVE-2025-70625 | Chat Z AI (https://chat.z.ai/) GLM-4.6 - Stored Cross Site Scripting (XSS) vulnerability | [https://www.cve.org/CVERecord?id=CVE-2025-70625] |
+
+
+
+
+<!---
+| CVE ID | Description | CVE Link |
+|------|------------|---------|
 | CVE-2025-67586 | WordPress Highlight and Share plugin <= 5.2.0 - Broken Access Control vulnerability | [https://www.cve.org/CVERecord?id=CVE-2025-67586] |
 | CVE-2025-67985 | WordPress Document Library Lite plugin <= 1.1.7 - Insecure Direct Object References (IDOR) vulnerability | [https://www.cve.org/CVERecord?id=CVE-2025-67985] |
 | CVE-2025-67986 | WordPress Document Library Lite plugin <= 1.1.7 - Cross Site Scripting (XSS) vulnerability | [https://www.cve.org/CVERecord?id=CVE-2025-67986] |
@@ -28,15 +40,6 @@ Focused on **real-world attack simulation**, **responsible disclosure**, and **c
 | CVE-2025-70625 | Chat Z AI (https://chat.z.ai/) GLM-4.6 - Stored Cross Site Scripting (XSS) vulnerability | [https://www.cve.org/CVERecord?id=CVE-2025-70625] |
 
 
-
-
-<!---
-## 🐞 CVEs & Public Research
-| CVE ID | Description | CVE Link | Exploit-DB |
-|------|------------|---------|-----------|
-| CVE-2025-67586 | WordPress Highlight and Share plugin <= 5.2.0 - Broken Access Control vulnerability | [(https://www.cve.org/CVERecord?id=CVE-2025-67586)] | [Exploit-DB – To be added] |
-| CVE-2025-67985 | TBD | [Link – To be added] | [Exploit-DB – To be added] |
-| CVE-2025-67986 | TBD | [Link – To be added] | [Exploit-DB – To be added] |
 --->
 > Detailed technical Write-ups/ PoCs are published.
 
